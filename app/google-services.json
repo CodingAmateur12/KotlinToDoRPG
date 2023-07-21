@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587868776469",
+    "project_id": "kotlintodorpg",
+    "storage_bucket": "kotlintodorpg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587868776469:android:82d6f6a3ed3e9e5c7dc61c",
+        "android_client_info": {
+          "package_name": "com.example.kotlintodopractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587868776469-akhka97tvjlmv8ijhm6pri38nq701i03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJ9GfMbe9n5WjK5Wu6O1WQHJ3ZnKASxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587868776469-akhka97tvjlmv8ijhm6pri38nq701i03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
